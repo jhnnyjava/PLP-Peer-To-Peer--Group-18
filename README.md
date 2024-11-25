@@ -17,6 +17,7 @@ Welcome to our team’s project repository! Here you can find information about 
 9. **Arnold kiprotich**
 10. **Hawaa wangari**
 11. **Maria Sagwa**
+12. **John Khaemba**
 
 
 ## Group Members' Name and Project
@@ -34,6 +35,7 @@ Welcome to our team’s project repository! Here you can find information about 
 | Arnold kiprotich | [GitHub](https://github.com/arnold792/portfolio.git)  | [Portfolio](https://portfolio-git-main-arnoldkiprotich50-gmailcoms-projects.vercel.app/) |
 | Hawaa wangari  | [GitHub](https://github.com/iconic-girl/portfolio)  | [Portfolio](https://github.com/iconic-girl/portfolio) |
 | Maria Sagwa  | [GitHub](https://github.com/SagwaM/Personal-Portfolio-Website-Safaricom_Hook_Cohort_1_Peer_to_peer_Learning._Group_18)  | [Portfolio](https://github.com/SagwaM/Personal-Portfolio-Website-Safaricom_Hook_Cohort_1_Peer_to_peer_Learning._Group_18) |
+| John Sumba | [GitHub](https://github.com/jhnnyjava/Portfolio.git)  | [Portfolio](https://safaricom-hook-cohort-peer-to-peer.onrender.com/) |
 
 ---
 
